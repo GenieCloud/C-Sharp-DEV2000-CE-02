@@ -1,0 +1,36 @@
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.deps.json
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.runtimeconfig.json
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.runtimeconfig.dev.json
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.dll
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.pdb
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.csprojAssemblyReference.cache
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.AssemblyInfoInputs.cache
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.AssemblyInfo.cs
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.csproj.CoreCompileInputs.cache
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.dll
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.pdb
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.genruntimeconfig.cache
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.deps.json
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.runtimeconfig.json
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.runtimeconfig.dev.json
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.dll
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.pdb
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.csprojAssemblyReference.cache
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.AssemblyInfoInputs.cache
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.AssemblyInfo.cs
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.csproj.CoreCompileInputs.cache
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.dll
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.pdb
+/Users/jmjon/Downloads/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.genruntimeconfig.cache
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.deps.json
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.runtimeconfig.json
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.runtimeconfig.dev.json
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.dll
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/bin/Debug/netcoreapp3.1/Jones_James_CE02.pdb
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.csprojAssemblyReference.cache
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.AssemblyInfoInputs.cache
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.AssemblyInfo.cs
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.csproj.CoreCompileInputs.cache
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.dll
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.pdb
+/Users/jmjon/Desktop/ITD2 - Introduction to Development II/Week 1/Jones_James_CE02/Jones_James_CE02/obj/Debug/netcoreapp3.1/Jones_James_CE02.genruntimeconfig.cache
